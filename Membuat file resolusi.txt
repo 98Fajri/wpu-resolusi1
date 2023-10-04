@@ -1,4 +1,6 @@
 WPU resolusi
 konsist6en membuat konten 2x seminggu
 berkolaborasi dengan kreatro lain
+fundamental data structur
+fungsi-fungsi algoritma
 membuat organisasi berguna
